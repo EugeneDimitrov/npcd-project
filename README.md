@@ -1,2 +1,2 @@
-# npcd-project-E01
-Project for the Networking in Public Cloud Deployments training. Hands-on exercise #1.
+# npcd-project
+Project for the Networking in Public Cloud Deployments training. Here will be the different repositories for the hands-on exercises.
