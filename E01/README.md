@@ -1,4 +1,4 @@
-# Bill Of Materials builder webside project
+# Bill Of Materials builder website project
 
 The goal is to deploy a simple public web site with a back-end database running on a database server.
 
